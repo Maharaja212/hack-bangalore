@@ -1,0 +1,4 @@
+create a folder named css and add bootstrap.min.css,responsive.css,style.min.css
+
+create a another folder fonts inside fonts create another folder bootstrap-icons-1.10.2 and add bootstrap-icons.woff,bootstarp-icons.woff2 and font file in this folder
+create a folder gordita inside fonts and add gordita_medium-webfont.woff,gordita_medium-webfont.woff2 gordita_regular-webfont gordita_regulr-webfont.woff2 and stylesheet
